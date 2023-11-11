@@ -1,0 +1,14 @@
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\bin\Debug\net6.0\Desafio_TDD.exe
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\bin\Debug\net6.0\Desafio_TDD.deps.json
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\bin\Debug\net6.0\Desafio_TDD.runtimeconfig.json
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\bin\Debug\net6.0\Desafio_TDD.dll
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\bin\Debug\net6.0\Desafio_TDD.pdb
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\Desafio_TDD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\Desafio_TDD.AssemblyInfoInputs.cache
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\Desafio_TDD.AssemblyInfo.cs
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\Desafio_TDD.csproj.CoreCompileInputs.cache
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\Desafio_TDD.dll
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\refint\Desafio_TDD.dll
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\Desafio_TDD.pdb
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\Desafio_TDD.genruntimeconfig.cache
+D:\Dio\dio-dotnet\trilha-net-tdd\Desafio_TDD\Desafio_TDD\obj\Debug\net6.0\ref\Desafio_TDD.dll
